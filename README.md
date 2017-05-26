@@ -13,3 +13,14 @@ A collection of items for Alfred, a productivity app from Running with Crayons L
 
 ## Themes
 * Coming soon
+
+## Requirements
+Macintosh running Alfred, available at https://www.alfredapp.com/
+
+## Instructions
+Download the snippet files and open them. They should be installed automatically. 
+
+## License
+MIT License, see License.txt in this repository
+
+© 2017 Jeffrey Smith
